@@ -4,7 +4,7 @@
 https://github.com/netology-code/py-homework-advanced/tree/master/2.1.Tests
 ## В данной работе:
 
-#### Директория ***secretary***
+### Директория ***secretary***
 ##### Модуль ***app.py***
 * Приложение-помощник для секретаря.
  
@@ -13,7 +13,7 @@ https://github.com/netology-code/py-homework-advanced/tree/master/2.1.Tests
 * Проверка всех ключевых функций приложения-помощника.
 * Использует файлы каталога ```fixtures``` для проведения тестирования.
 
-#### Директория ***translate***
+### Директория ***translate***
 ##### Модуль ***translate.py***
 * Приложение для перевода текста.
 
